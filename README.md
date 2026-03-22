@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Marca</h1>
 <h3 align="center">A systems engineering student passionate about cybersecurity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josemarca17" alt="josemarca17" /></a> </p>
 # 💫 About Me:
 I'm a systems engineering student passionate about cybersecurity.<br>I’m looking to collaborate on CTF challenges/ offensive security tools.<br>I’m currently learning Penetration testing, network security, Hyprland, c#.<br>Ask me about Linux, Python, networking
 
